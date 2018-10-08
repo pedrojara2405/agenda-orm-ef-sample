@@ -10,7 +10,7 @@ using Agenda.Models;
 
 namespace Agenda.Controllers
 {
-    public class ContactoController : Controller
+    public class ContactosController : Controller
     {
         private AgendaContext db = new AgendaContext();
 
