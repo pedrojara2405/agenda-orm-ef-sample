@@ -9,7 +9,7 @@ using System.Web.Mvc;
 
 namespace Agenda.Models
 {
-    public class TelefonoController : Controller
+    public class TelefonosController : Controller
     {
         private AgendaContext db = new AgendaContext();
 
